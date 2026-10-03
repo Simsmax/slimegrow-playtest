@@ -7,7 +7,8 @@ This repository holds only the playable build. The game itself is in development
 
 ## Download and play (Windows 10 or 11, 64-bit)
 
-1. Open **[Releases](../../releases/latest)** and download `SlimeGrow-playtest-1-windows.zip`.
+1. Open **[the latest release](../../releases/latest)** and download the `.zip` (for example
+   `SlimeGrow-v0.1.0-windows.zip`).
 2. Unzip it anywhere (not inside the zip viewer: the game needs its folder beside it).
 3. Run `SlimeGrow.exe`.
 
@@ -23,8 +24,12 @@ then **Run anyway**.
 
 Your game is saved by itself, in `%APPDATA%\Godot\app_userdata\SlimeGrow\`.
 
-## Build
+## Versions
 
-`v0.1.0 build 2026-10-03 00:29 8e843fc` — the same stamp the game shows at its bottom right.
+Each release is named by the version the game shows at its bottom right (`v0.1.0 build ...`).
+
+| Version | Build |
+|---|---|
+| v0.1.0 | `v0.1.0 build 2026-10-03 00:29 8e843fc` |
 
 Feedback goes to whoever sent you the link.
