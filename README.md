@@ -2,14 +2,14 @@
 
 An early playtest of **SlimeGrow**, a semi-idle village builder on a hex map: a slime alone on a
 heap of goo grows into a nation of goblins, dwarves and orcs. Seven ages, about seven hours of play
-(or a week, coming back every eight hours), on a land drawn anew for every game.
+(or eight to nine days, coming back every eight hours), on a land drawn anew for every game.
 
 This repository holds only the playable build. The game itself is in development.
 
 ## Download and play (Windows 10 or 11, 64-bit)
 
 1. Open **[the latest release](../../releases/latest)** and download the `.zip` (for example
-   `SlimeGrow-v0.3.0-windows.zip`).
+   `SlimeGrow-v0.4.0-windows.zip`).
 2. Unzip it anywhere (not inside the zip viewer: the game needs its folder beside it).
 3. Run `SlimeGrow.exe`, in the `SlimeGrow` folder.
 
@@ -20,7 +20,9 @@ then **Run anyway**.
 
 - **Click** a unit or a place to choose it; **right-click** a place to send what you hold there.
 - A place's panel has its actions; a lit button can be done now, a dim one shows what is short.
-- The list at the top left is what the next age asks for. **B** lists what can be built, and where.
+- The list at the top left is what the next age asks for. **B** is what can be built: pick a picture
+  up and put it down on the land that lights; a gold frame is what the age asks for next.
+- A storage keeps only what its keepers keep: send it workers.
 - **H** shows the few rules there are; the cog, bottom left, has the music, the sounds and starting
   over (on a new land).
 - It plays on while it is closed (up to 30 hours): come back, and things will have happened.
@@ -33,6 +35,7 @@ Each release is named by the version the game shows at its bottom right (`v0.1.0
 
 | Version | Build |
 |---|---|
+| v0.4.0 | `v0.4.0 release  build 2026-10-07 21:14:18  5f9ce87` |
 | v0.3.0 | `v0.3.0  build 2026-10-05 01:55:14  dcd5473` |
 | v0.2.0 | `v0.2.0  build 2026-10-03 20:11:08  21621c1` |
 | v0.1.0 | `v0.1.0 build 2026-10-03 00:29 8e843fc` |
